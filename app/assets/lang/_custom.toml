@@ -1,20 +1,21 @@
 # Custom Language File for Launcher Customizer
+# mediaInstagramURL = "#"
+# mediaGitHubURL = "https://github.com/DontHopeZ/Dont_HopeZ"
+# mediaTwitterURL = "#"
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Don't HopeZ"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
+mediaDiscordURL = "https://discord.gg/HAVhHU8p8A"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/DontHopeZ/Dont_HopeZ"
+supportLink = "https://github.com/DontHopeZ/Dont_HopeZ/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "Don't HopeZ에 오신 것을 환영합니다!"
+welcomeDescription = "이 서버는 오픈월드 좀비 아포칼립스 생존 컨텐츠를 다루고 있으며, 좀비가 바글바글한 세계 속에서 무기와 장비, 식량과 자원, 먼거리를 쉽게 이동할 수 있는 차량을 확보하세요! 또한 팀을 구성해 베이스를 짓고, 반대로 적의 베이스를 털어버리세요! 제작자는 DayZ와 Rust유저로서 영감을 얻어 마인크래프트로 만들어봤습니다. ENJOY!"
+welcomeDescCTA = "클릭 몇 번이면 접속할 수 있습니다!"
